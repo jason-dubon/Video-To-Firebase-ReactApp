@@ -1,0 +1,18 @@
+.uploadButton {
+    display: flex;
+    color: white;
+    background-color: deepskyblue;
+    padding: 15px 40px;
+    border-radius: 5px;
+    border-color: transparent;
+    width: fit-content;
+    margin: auto;
+}
+
+.uploadButton:hover {
+    background-color: lightgray;
+}
+
+.uploadButton:active {
+    background-color:deepskyblue
+}
