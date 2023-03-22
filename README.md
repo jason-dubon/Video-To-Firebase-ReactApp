@@ -1,14 +1,14 @@
-# react-drop-file-input
+# Upload Videos To Firebase Storage
 
-    React Drag and Drop file input
+    Upload Videos To Firebase Storage
 
 # Video tutorial
 
-    https://youtu.be/Aoz0eQAbEUo
+    https://www.youtube.com/watch?v=wuArhMaD5Hc
 
 # Description
 
-    Build React Drag and Drop file input
+    Build React App that Uploads Videos To Firebase Storage
 
 # Resource
 
@@ -20,4 +20,4 @@
 
 # Preview
 
-!["React Drag and Drop file input"](https://user-images.githubusercontent.com/67447840/135160494-703a6872-3ac9-4030-ae4c-d7771186f58b.jpg "React Drag and Drop file input")
+![Youtube Tutorial Thumbnail (30)](https://user-images.githubusercontent.com/15134835/227016885-229f4c5e-8634-4d5d-9e0e-b802fab17cfc.png "Build React App that Uploads Videos To Firebase Storage")
